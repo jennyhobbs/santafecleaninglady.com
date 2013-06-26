@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:B2861F98-315C-49CF-A13F-2ECC4B427DA2</id>
+ <title>Page list Atom feed</title>
+ <updated>2013-06-26T08:07:55-06:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:FB0661D5-FDF4-4E51-A8B8-393A8A434BAB</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">FB0661D5-FDF4-4E51-A8B8-393A8A434BAB</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2013-06-26T08:07:55.001-06:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FCAAE2CE-66C3-4493-946D-FF8C1B8924C1</id>
+  <title>Our Service</title>
+  <title xmlns="urn:iweb:">Our Service</title>
+  <in-navbar xmlns="urn:iweb:">FCAAE2CE-66C3-4493-946D-FF8C1B8924C1</in-navbar>
+  <link rel="alternate" href="Our_Service.html"/>
+  <updated>2013-06-26T08:07:55.002-06:00</updated>
+  <content>Our Service</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6EB3984E-3B20-49F6-A247-745B7DCE7B40</id>
+  <title>Laundry/Ironing</title>
+  <title xmlns="urn:iweb:">Laundry/Ironing</title>
+  <in-navbar xmlns="urn:iweb:">6EB3984E-3B20-49F6-A247-745B7DCE7B40</in-navbar>
+  <link rel="alternate" href="Laundry_Ironing.html"/>
+  <updated>2013-06-26T08:07:55.003-06:00</updated>
+  <content>Laundry/Ironing</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:36C51AD4-DA42-45C5-95BD-918BC3A0B3AB</id>
+  <title>Prices</title>
+  <title xmlns="urn:iweb:">Prices</title>
+  <in-navbar xmlns="urn:iweb:">36C51AD4-DA42-45C5-95BD-918BC3A0B3AB</in-navbar>
+  <link rel="alternate" href="Prices.html"/>
+  <updated>2013-06-26T08:07:55.004-06:00</updated>
+  <content>Prices</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3366EFDF-F998-4EFE-BC9F-00E109D94845</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">3366EFDF-F998-4EFE-BC9F-00E109D94845</in-navbar>
+  <link rel="alternate" href="About_Me.html"/>
+  <updated>2013-06-26T08:07:55.005-06:00</updated>
+  <content>About Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3DA6D877-2DDA-48F2-97C3-EA71C6D3DC1F</id>
+  <title>Pay online</title>
+  <title xmlns="urn:iweb:">Pay online</title>
+  <in-navbar xmlns="urn:iweb:">3DA6D877-2DDA-48F2-97C3-EA71C6D3DC1F</in-navbar>
+  <link rel="alternate" href="Pay_online.html"/>
+  <updated>2013-06-26T08:07:55.006-06:00</updated>
+  <content>Pay online</content>
+ </entry>
+</feed>
